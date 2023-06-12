@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 import base64
 
 # Set page layout
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="Team Capabilities", page_icon=":spider_web:",layout="wide")
 
 # Title and description
 st.title("Team Capabilities Visualization")
